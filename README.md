@@ -1,13 +1,16 @@
 # MXNT10 Projects
 
-write...
+No Description.
 
 ## Projects
 
-write...
+No Description.
+
+<br/><br/>
 
 * Slackware
   * Slackware15-Reposity: [WebSite](https://mxnt10.github.io/Slackware15-Reposity/) - [GitHub Project](https://github.com/mxnt10/Slackware15-Reposity)
+
 <br/><br/>
 
 * Linux
@@ -16,29 +19,12 @@ write...
 
 ## Topics
 
-```markdown
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+No Topics.
 
 ### Contact
 
-a
+Autor: Mauricio Ferrari
 
-a
+E-Mail: *m10ferrari1200@gmail.com*
 
-a
-
-a
-
-a
+Telegram: *@maurixnovatrento*
