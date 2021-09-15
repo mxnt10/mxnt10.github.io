@@ -1,26 +1,17 @@
 # MXNT10 Projects
 
-a
-
-a
-
-a
-
-a
-
-a
+write...
 
 ## Projects
 
-a
+write...
 
-a
+Slackware
+Slackware15-Reposity 
 
-a
-
-a
-
-a
+Linux
+ThemePack2Background
+Refine
 
 ## Topics
 
