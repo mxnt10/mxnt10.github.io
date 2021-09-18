@@ -1,4 +1,4 @@
-# MXNT10 Projects
+# MXNT10 Projects for Linux and Slackware
 
 Welcome to the mxnt10 projects website. 
 
