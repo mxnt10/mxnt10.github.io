@@ -5,4 +5,4 @@
 
 # Recommended Links
 
-* Samba and Nfs Configuration - [https://wiki.alienbase.nl/doku.php?id=slackware:samba](https://wiki.alienbase.nl/doku.php?id=slackware:samba)
+* Samba and NFS Configuration - [https://wiki.alienbase.nl/doku.php?id=slackware:samba](https://wiki.alienbase.nl/doku.php?id=slackware:samba)
