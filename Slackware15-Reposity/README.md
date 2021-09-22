@@ -3,7 +3,9 @@
 *Reposity for Slackware 15.0 Stable - [GitHub Project](https://github.com/mxnt10/Slackware15-Reposity)*
 <br/><br/>
 
-## Slackbuilds 
+## Slackbuilds Avaliable for Slackware:
+
+
 
 
 
