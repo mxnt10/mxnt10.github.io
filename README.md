@@ -29,7 +29,7 @@ No Description.
 # Recomended Links
 
 * GCC Optimization - [https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html)
-* Create Categories in Start Menu - [https://specifications.freedesktop.org/menu-spec/menu-spec-latest.html](https://specifications.freedesktop.org/menu-spec/menu-spec-latest.html)
+* Categories in Start Menu - [https://specifications.freedesktop.org/menu-spec/menu-spec-latest.html](https://specifications.freedesktop.org/menu-spec/menu-spec-latest.html)
 <br/><br/>
 
 # Contact
